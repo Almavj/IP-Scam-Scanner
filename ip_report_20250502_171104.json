@@ -1,0 +1,32 @@
+{
+    "ip": "8.8.8.8",
+    "country": "Kenya",
+    "timestamp": "2025-05-02T17:10:40.235336",
+    "sources": [
+        {
+            "source": "IP-API",
+            "country": "United States",
+            "region": "Virginia",
+            "city": "Ashburn",
+            "isp": "Google LLC",
+            "org": "Google Public DNS",
+            "as": "AS15169 Google LLC",
+            "coordinates": [
+                39.03,
+                -77.5
+            ],
+            "timezone": "America/New_York",
+            "zip": "20149",
+            "reverse_dns": "dns.google"
+        }
+    ],
+    "reverse_dns": "dns.google",
+    "asn_info": "AS15169 Google LLC",
+    "whois": {
+        "registrar": null,
+        "creation_date": null,
+        "expiration_date": null,
+        "name_servers": null
+    },
+    "traceroute": "traceroute to 8.8.8.8 (8.8.8.8), 30 hops max, 60 byte packets\n 1  * * *\n 2  41.212.27.1.wananchi.com (41.212.27.1)  5.407 ms  5.391 ms  5.374 ms\n 3  25.7.212.41.in-addr.arpa (41.212.7.25)  5.355 ms  5.338 ms  5.323 ms\n 4  46.2.212.41.in-addr.arpa (41.212.2.46)  10.599 ms  10.897 ms  10.879 ms\n 5  72.14.203.110 (72.14.203.110)  14.353 ms  12.939 ms  14.606 ms\n 6  192.178.251.109 (192.178.251.109)  11.035 ms  10.102 ms 192.178.251.143 (192.178.251.143)  11.593 ms\n 7  209.85.249.141 (209.85.249.141)  10.152 ms 108.170.234.95 (108.170.234.95)  10.137 ms 142.250.58.143 (142.250.58.143)  10.396 ms\n 8  dns.google (8.8.8.8)  11.529 ms  10.476 ms  10.000 ms\n"
+}

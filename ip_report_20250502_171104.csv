@@ -1,0 +1,2 @@
+ip,country,timestamp,reverse_dns,asn_info,IP-API_source,IP-API_country,IP-API_region,IP-API_city,IP-API_isp,IP-API_org,IP-API_as,IP-API_coordinates,IP-API_timezone,IP-API_zip,IP-API_reverse_dns
+8.8.8.8,Kenya,2025-05-02T17:10:40.235336,dns.google,AS15169 Google LLC,IP-API,United States,Virginia,Ashburn,Google LLC,Google Public DNS,AS15169 Google LLC,"(39.03, -77.5)",America/New_York,20149,dns.google

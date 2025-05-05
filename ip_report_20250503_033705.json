@@ -1,0 +1,28 @@
+{
+    "ip": "8.8.8.8",
+    "country": "United States",
+    "timestamp": "2025-05-03T03:36:00.710008",
+    "sources": [
+        {
+            "source": "IP-API",
+            "country": "United States",
+            "region": "Virginia",
+            "city": "Ashburn",
+            "isp": "Google LLC",
+            "org": "Google Public DNS",
+            "as": "AS15169 Google LLC",
+            "lat": "39.03",
+            "lon": "-77.5",
+            "timezone": "America/New_York",
+            "zip": "20149",
+            "reverse_dns": "dns.google"
+        }
+    ],
+    "reverse_dns": "dns.google",
+    "asn_info": "AS15169 Google LLC",
+    "whois": {
+        "registrar": "None",
+        "name_servers": "None"
+    },
+    "traceroute": "traceroute to 8.8.8.8 (8.8.8.8), 30 hops max, 60 byte packets\n 1  * * *\n 2  41.212.27.1.wananchi.com (41.212.27.1)  6.816 ms  12.676 ms  12.663 ms\n 3  25.7.212.41.in-addr.arpa (41.212.7.25)  12.650 ms  13.349 ms  13.333 ms\n 4  46.2.212.41.in-addr.arpa (41.212.2.46)  16.023 ms  15.609 ms  16.779 ms\n 5  72.14.203.110 (72.14.203.110)  17.934 ms  18.529 ms  19.101 ms\n 6  * * *\n 7  * * *\n 8  dns.google (8.8.8.8)  14.727 ms  13.232 ms  13.034 ms\n"
+}

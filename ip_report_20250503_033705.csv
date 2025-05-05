@@ -1,0 +1,2 @@
+ip,country,timestamp,reverse_dns,asn_info,latitude,longitude,map_url
+8.8.8.8,United States,2025-05-03T03:37:05.591368,dns.google,AS15169 Google LLC,39.03,-77.5,"https://www.google.com/maps?q=39.03,-77.5"
