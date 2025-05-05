@@ -1,7 +1,7 @@
 # 🌌 IP Galaxy - Cosmic IP Tracker
 
-![Banner](Documents/python/![Screenshot_2025-05-05_11_51_26](https://github.com/user-attachments/assets/2108813b-f4a2-4af7-a044-efcc6f9c92ef)
-screenshot.jpeg)
+![Screenshot_2025-05-05_11_51_26](https://github.com/user-attachments/assets/2108813b-f4a2-4af7-a044-efcc6f9c92ef)
+
 
 A multi-dimensional IP tracking tool that provides cosmic-level insights about IP addresses across different countries.
 
