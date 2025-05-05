@@ -1,0 +1,15 @@
+# Core Functionality
+requests==2.31.0          # HTTP requests
+geoip2==4.7.0             # IP geolocation
+python-whois==0.8.0       # WHOIS lookups
+dnspython==2.4.2          # DNS queries
+netifaces==0.11.0         # Network interface data
+
+# CLI Enhancements
+pyfiglet==0.8.post1       # ASCII banners
+tqdm==4.66.1              # Progress bars
+colorama==0.4.6           # Colored terminal text
+
+# Utility
+logging==0.4.9.6          # Logging
+concurrent-log-handler==0.9.24  # Thread-safe logs
