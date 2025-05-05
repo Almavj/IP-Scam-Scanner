@@ -25,7 +25,15 @@ cd ip-scam-scanner
 pip install -r requirements.txt
 
 # 4. Download GeoIP database (Required)
-read -sp "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 : " k && wget -qO- "https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-City&license_key=${k}&suffix=tar.gz" | tar -xz && cp GeoLite2-City_*/GeoLite2-City.mmdb ./data/ && rm -rf GeoLite2-City_* && unset k
+## GeoIP Database Setup
+
+1. Get a free [MaxMind license key](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data)
+2. Run this secure download command:
+   ```bash
+   read -sp "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: " k && \
+   wget -qO- "https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-City&license_key=${k}&suffix=tar.gz" | \
+   tar -xz --strip-components=1 -C ./data/ GeoLite2-City_*/GeoLite2-City.mmdb && \
+   unset k
 # 2. Extract
 tar -xvzf GeoLite2-City.tar.gz
 
