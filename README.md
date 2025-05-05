@@ -1,6 +1,7 @@
 # 🌌 IP Galaxy - Cosmic IP Tracker
 
-![Banner](Documents/python/screenshot.jpeg)
+![Banner](Documents/python/s![screenshot](https://github.com/user-attachments/assets/546d4dea-ec56-4c8f-836a-e133c812f2de)
+creenshot.jpeg)
 
 A multi-dimensional IP tracking tool that provides cosmic-level insights about IP addresses across different countries.
 
@@ -15,7 +16,7 @@ A multi-dimensional IP tracking tool that provides cosmic-level insights about I
 ## Installation
 
 # 1. Clone the repository
-git clone https://github.com/your-username/ip-scam-scanner.git
+git clone https://github.com/Almavj/ip-scam-scanner.git
 
 # 2. Navigate to the project folder
 cd ip-scam-scanner
